@@ -1,4 +1,9 @@
-# 3. 네트워크 2
+---
+layout: post
+comments : true
+title:  " 3. 네트워크 2"
+date:   2020-01-01 22:53:01 +0900
+---
 
 # LAN과  WAN을 구별하는 방법
 

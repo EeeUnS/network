@@ -1,4 +1,9 @@
-# 5. TCP
+---
+layout: post
+comments : true
+title:  " 5. TCP"
+date:   2020-01-01 22:53:01 +0900
+---
 
 # **이해하면 인생이 바뀌는 TCP 송/수신 원리**
 

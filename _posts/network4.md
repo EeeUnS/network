@@ -1,4 +1,9 @@
-# 4. proxy
+---
+layout: post
+comments : true
+title:  " 4. proxy"
+date:   2020-01-01 22:53:01 +0900
+---
 
 inline + out of path 
 
